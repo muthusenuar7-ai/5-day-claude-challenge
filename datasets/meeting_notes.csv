@@ -1,0 +1,7 @@
+id,date,meeting,raw_notes
+1,2026-10-05,Weekly sync,"sales down 8% in east - priya says pricing issue?? need to check w/ finance. launch moved to nov 12 (was nov 5). ravi will update roadmap. who owns the churn report - unclear"
+2,2026-10-07,Product review,"liked the new dashboard but filters too slow. sam to profile queries by fri. dark mode requested again by 3 customers. decide next week if we do it. budget for design contractor not approved yet"
+3,2026-10-12,Client call - Acme,"acme wants weekly reports instead of monthly. we said yes pending capacity. anita to send revised proposal tues. they asked about SSO - dont know timeline. follow up"
+4,2026-10-14,Hiring huddle,"2 analyst roles open. shortlisted 6 candidates. interviews w/c 20 oct. tom to book panel. need to agree take-home test format - short or long?"
+5,2026-10-19,Retro,"deploys felt smoother. too many urgent bugs from last release. agree to add a checklist before release. mia owns checklist draft. still no decision on code freeze day"
+6,2026-10-21,Marketing sync,"webinar had 240 signups 90 attended. good feedback on demo section. lee to repurpose into 3 short clips. next webinar topic not decided - ideas: data quality, dashboards"

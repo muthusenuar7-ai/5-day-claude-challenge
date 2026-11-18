@@ -1,0 +1,13 @@
+ticket_id,received,customer,message
+T-101,2026-11-02,Maya,"I was charged twice for my October invoice. Please refund one."
+T-102,2026-11-02,Jon,"The export button does nothing when I click it on the reports page."
+T-103,2026-11-03,Priya,"How do I add a teammate to my workspace?"
+T-104,2026-11-03,Chen,"URGENT: whole dashboard is down for our team, demo in 1 hour!"
+T-105,2026-11-04,Sara,"Can you add dark mode? My eyes hurt at night."
+T-106,2026-11-04,Luis,"I forgot my password and the reset email never arrives."
+T-107,2026-11-05,Amir,"Your pricing page says 10 seats but I only see 5 in my plan."
+T-108,2026-11-05,Dana,"Loving the product! Just wanted to say thanks to the team."
+T-109,2026-11-06,Omar,"Data in the sales chart does not match my CSV totals."
+T-110,2026-11-06,Kim,"Please cancel my subscription effective end of month."
+T-111,2026-11-07,Ravi,"Is there an API? I want to pull data into my own tool."
+T-112,2026-11-07,Nora,"App crashes on my phone whenever I open the settings screen."

@@ -1,0 +1,8 @@
+{
+  "name": "5-day-claude-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes http-server . -p 8080 -c-1 -o"
+  }
+}

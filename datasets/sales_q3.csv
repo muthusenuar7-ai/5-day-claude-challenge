@@ -1,0 +1,13 @@
+month,region,product,units,revenue
+2026-07,North,Starter,42,12600
+2026-07,South,Pro,18,16200
+2026-07,East,Enterprise,4,10000
+2026-07,West,Starter,35,10500
+2026-08,North,Pro,22,19800
+2026-08,South,Starter,48,14400
+2026-08,East,Pro,15,13500
+2026-08,West,Enterprise,6,15000
+2026-09,North,Enterprise,5,12500
+2026-09,South,Enterprise,3,7500
+2026-09,East,Starter,51,15300
+2026-09,West,Pro,27,24300
